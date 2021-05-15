@@ -1,3 +1,6 @@
+for unique key install >>>  npm i uuidv4
+
+------------------------------------------------------------------
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
