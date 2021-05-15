@@ -1,4 +1,9 @@
-for unique key install >>>  npm i uuidv4
+In this tutorial project, I used useState and useEffect hooks. There are functions like add & remove contacts from the contact list.
+
+For each contact unique key, please install >>>  npm i uuidv4
+
+![image](https://user-images.githubusercontent.com/39573363/118373769-22143f80-b5c1-11eb-877d-f011a453ff3c.png)
+
 
 ------------------------------------------------------------------
 # Getting Started with Create React App
