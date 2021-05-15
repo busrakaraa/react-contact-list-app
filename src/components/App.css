@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+
+.head{
+align-self: center;
+}
+
+.ui fixed menu{
+  padding: 10%;
+}
+
+.addcontact{
+  text-align: left;
+  padding: 10%;
+  margin: 10%;
+}
